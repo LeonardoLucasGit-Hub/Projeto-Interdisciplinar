@@ -40,4 +40,8 @@ Onde: feito pelo grupo em casa.
 Como: dividindo as tarefas entre a equipe, usando o GitHub para guardar os arquivos e registrando os prompts de IA.
 
 Quanto custa: R$ 0,00, porque usaremos ferramentas gratuitas como o canva.
+
+Prompt de IA:
+
+Ainda não fizemos o interdisciplinar então não tem nenhuma ajuda de IA até então, mas pretendemos utilizar para melhor aproveito.
 ```
